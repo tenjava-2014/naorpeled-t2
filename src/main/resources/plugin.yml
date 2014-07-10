@@ -1,0 +1,3 @@
+name: naorpeled-t2
+main: com.tenjava.entries.naorpeled.t2.TenJava
+version: '${project.version}'
